@@ -21,10 +21,11 @@
 <img aling="center" alt= "hyper"  src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
 <img aling="center" alt= "jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
-<img aling="center" alt= "jira"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-souza-franca&theme=blue-green" />
-
 </div>
 
+<div style="display: inline block"><br/>
+<img aling="center" alt= "grafico"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-souza-franca&theme=blue-green" />
+</div>
 
        
 
