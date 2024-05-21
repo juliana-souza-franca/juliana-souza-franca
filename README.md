@@ -22,9 +22,7 @@
 
 </div>
 
-<div style="display: inline block"><br/>
-<img aling="center" alt= "grafico"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-souza-franca&theme=blue-green" />
-</div>
+
 
        
 
